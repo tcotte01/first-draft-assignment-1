@@ -1,5 +1,33 @@
-p{
-	font-family: Cambria, serif;
+/*THis is my resume style sheet */
+
+h1{
+	font-family: "Avenir";
+	font-size: 40px;
+	color: #2b76ef;
+	font-style: bold;
+	text-align: center;
+}
+
+a{
+	font-family: "Avenir";
 	font-size: 14px;
+	text-align: center;
+}
+
+body {
+	background-color: #d7dde0;
+	font-family: "Times New Roman";
+	color: black;
+}
+
+p{
+	font-family: "Avenir", serif;
+	font-size: 14px;
+	
+}
+
+ul{
+	font-family: "Avenir;
 	font-style: italic;
+	font-size: 12px;
 }
