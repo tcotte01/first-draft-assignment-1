@@ -1,33 +1,51 @@
 /*THis is my resume style sheet */
 
-h1{
-	font-family: "Avenir";
-	font-size: 40px;
+#header {
+	font-size: 42px;
 	color: #2b76ef;
 	font-style: bold;
+	margin-top: 5%;
+	line-height: 20px;
+}
+
+#header, #email {
+	font-family: "Avenir";
 	text-align: center;
 }
 
-a{
-	font-family: "Avenir";
+#email {
 	font-size: 14px;
-	text-align: center;
 }
 
 body {
 	background-color: #d7dde0;
-	font-family: "Times New Roman";
 	color: black;
+	font-family: "Avenir";
 }
 
 p{
 	font-family: "Avenir", serif;
 	font-size: 14px;
+	margin-left: 15%;
 	
 }
 
+h2{
+	font-family: "Avenir";
+	font-style: bold;
+	margin-left: 5%;
+}
+
+h4{
+	font-family: "Avenir";
+	font-style: bold;
+	margin-left: 10%;
+}
+
+
 ul{
-	font-family: "Avenir;
+	font-family: "Avenir";
 	font-style: italic;
 	font-size: 12px;
+	margin-left: 13%;
 }
