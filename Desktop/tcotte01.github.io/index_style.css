@@ -1,18 +1,55 @@
 /* This is a style sheet for my homepage*/
 
+.container {
+	position: relative;
+	text-align: center;
+	color: white;
+	z-index: 1;
+}
 
-h1 {
+.image {
+	position: absolute;
+	top:47%;
+	left: 50%;
+	z-index: 3;
+}
+
+.align1 {
+	position: absolute;
 	font-size: 60px;
-	font-color: white;
-	font-family: "Berimbau";
+	top: 70%;
+	left: 70%;
+	color: white;
+	text-shadow: 
+	-1px -1px 0 #000;
+}
+
+.align2 {
+	position:absolute;
+	font-size: 60px;
+	top: 70%;
+	left: 30%;
+	color: white;
+	text-shadow: 
+	-1px -1px 0 #000;
+}
+
+.header {
+	position: absolute;
+	top:30%;
+	left: 40%;
+	transform: translate (-50%, -50%);
+	font-size: 100px;
+	font-family: "Avenir";
+	color: white;
+	font-weight: bold;
+	text-shadow: 
+	-1px -1px 0 #000;
 
 }
 
 body {
-	background-color: #edf3fc;
-	text-align: center;
-	margin-top: 25%;
-	margin-bottom: 25%;
-	border-style: solid;
-	border-width: 10px;
+	background-color: #d7dde0;
+	
 }
+
