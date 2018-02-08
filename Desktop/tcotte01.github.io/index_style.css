@@ -1,0 +1,18 @@
+/* This is a style sheet for my homepage*/
+
+
+h1 {
+	font-size: 60px;
+	font-color: white;
+	font-family: "Berimbau";
+
+}
+
+body {
+	background-color: #edf3fc;
+	text-align: center;
+	margin-top: 25%;
+	margin-bottom: 25%;
+	border-style: solid;
+	border-width: 10px;
+}
