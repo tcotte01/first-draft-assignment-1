@@ -1,0 +1,15 @@
+/* This is a style sheet for my about me page */
+
+#header {
+	font-size: 42px;
+	color: #2b76ef;
+	font-style: bold;
+	margin-top: 5%;
+	line-height: 20px;
+}
+
+body {
+	background-color: #d7dde0;
+	color: black;
+	font-family: "Avenir";
+}
