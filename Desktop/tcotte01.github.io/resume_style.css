@@ -27,6 +27,7 @@ p{
 	font-family: "Avenir", serif;
 	font-size: 14px;
 	margin-left: 15%;
+	margin-right: 15%;
 	
 }
 
@@ -34,18 +35,20 @@ h2{
 	font-family: "Avenir";
 	font-style: bold;
 	margin-left: 5%;
+	margin-right: 5%;
 }
 
 h4{
 	font-family: "Avenir";
 	font-style: bold;
 	margin-left: 10%;
+	margin-right: 10%;
 }
 
 
 ul{
 	font-family: "Avenir";
-	font-style: italic;
-	font-size: 12px;
-	margin-left: 13%;
+	font-size: 14px;
+	margin-left: 15%;
+	margin-right: 15%;
 }
